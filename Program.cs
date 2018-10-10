@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace SimpleScrapper
 {
@@ -24,7 +25,6 @@ namespace SimpleScrapper
         {
             
         }        
-        HtmlAgilityPack.HtmlWeb web = new HtmlAgilityPack.HtmlWeb();
-        HtmlAgilityPack.HtmlDocument doc = web.Load("www.google.com");
+        
     }
 }

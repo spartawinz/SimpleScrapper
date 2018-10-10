@@ -1,17 +1,24 @@
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using HtmlAgilityPack;
 
 
-namespace WebController
+namespace ScrapeController
 {
-    [route("api/[controller]")]
-    public class WebController : WebController{
+    [Route("api/[controller]")]
+    public class ScrapeController : Controller{
         //GET
         //Ripped Data
+        //URL
         [HttpGet]
-        public List<string> getData(string url)
+        public object getData(string url)
         {
-            List<string> data = new LinkedList();
-            return data;
+            HtmlAgilityPack.HtmlWeb web = new HtmlAgilityPack.HtmlWeb();
+            HtmlAgilityPack.HtmlDocument doc = web.Load(url);
+            var nodes = doc.DocumentNode.SelectNodes("//a[@class='itemDetail']");
+            
+            return nodes;
+            
         }
     }
 }

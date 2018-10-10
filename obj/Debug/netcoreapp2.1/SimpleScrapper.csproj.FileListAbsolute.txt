@@ -1,0 +1,14 @@
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.csprojAssemblyReference.cache
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.csproj.CoreCompileInputs.cache
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.RazorAssemblyInfo.cache
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.RazorAssemblyInfo.cs
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.AssemblyInfoInputs.cache
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.AssemblyInfo.cs
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/bin/Debug/netcoreapp2.1/SimpleScrapper.deps.json
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/bin/Debug/netcoreapp2.1/SimpleScrapper.runtimeconfig.json
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/bin/Debug/netcoreapp2.1/SimpleScrapper.runtimeconfig.dev.json
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/bin/Debug/netcoreapp2.1/SimpleScrapper.dll
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/bin/Debug/netcoreapp2.1/SimpleScrapper.pdb
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.RazorTargetAssemblyInfo.cache
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.dll
+/home/travis/Documents/CSharpPrograms/SimpleScrapper/obj/Debug/netcoreapp2.1/SimpleScrapper.pdb
